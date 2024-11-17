@@ -1,0 +1,200 @@
+body {
+    background-color: #105652;
+    text-align: center;
+}
+
+.top-container {
+    background-color: #105652;
+    position: relative;
+    padding-top: 100px;
+}
+
+.title-text > p {
+    font-family: "freehand", cursive ;
+    color: #9ee1de;
+    font-size: 60px;
+    font-weight: lighter;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    line-height: 0.4;
+}
+
+h1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: lighter;
+    color: #df8452;
+    text-align: center;
+    padding: 0px;
+    font-size: 70px;
+    margin: 0px;
+        
+}
+
+.top-sparkle {
+    position: absolute;
+    top: 0px;
+    left:300px;
+}
+
+.bottom-sparkle {
+
+    position: absolute;
+    right: 300px;
+    top: 100px;
+
+}
+
+.laptop {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h2 span {
+    display: table;
+    margin: 0 auto;
+    background:#d4c2b8;
+    border-radius:5px;
+    border: 2px solid #9e7762 ;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: lighter;
+    color: #105652;
+    font-size: 20px;
+    
+}
+
+.about-me > p {
+    font-family: "freehand", cursive ;
+    color: #9ee1de;
+    font-size: 60px;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: px;
+    margin: 0px;
+    line-height: 1;
+}
+
+p span {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: lighter;
+    color: #df8452;
+    text-align: center;
+    font-size: 70px;
+    display: block;   
+}
+
+p.intro {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.2;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    color: white;
+    
+
+}
+
+
+hr {
+    width:50%;
+    margin:0 auto;
+}
+
+.education-details {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+}
+
+
+.projects {
+    text-align: center;
+}
+
+.project1 {
+    display: inline-block;
+    margin: 0 auto;
+    background:#d4c2b8;
+    border-radius:5px;
+    border: 2px solid #9e7762 ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    vertical-align: middle;   
+    
+}
+
+.project2 {
+    display: inline-block;
+    margin: 0 auto;
+    background:#d4c2b8;
+    border-radius:5px;
+    border: 2px solid #9e7762 ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    vertical-align: middle;
+    
+}
+
+.contact-message {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.2;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    color: white;
+    margin: 40px auto 60px;
+    
+}
+
+.btn {
+    display: inline-block;
+    letter-spacing: 2px;
+    border-radius: 8px;
+    font-family: "Bebas Neue", sans-serif;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    background-image: linear-gradient(to bottom,#df8452,#935533 );
+    text-decoration: none;
+    
+  }
+
+.btn:hover {
+    background: #df8452 ;
+}
+
+.bottom-container {
+    margin-top: 50px;
+    background-color: #d4c2b8;
+    padding: 50px 0 20px;
+    
+}
+
+a {
+    color: #105652;
+    font-family: "Bebas Neue", sans-serif;
+    margin: 10px 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.copyright {
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    font-size: 1rem;
+    padding: 20px 0;
+}
